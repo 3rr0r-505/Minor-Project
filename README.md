@@ -23,12 +23,13 @@ KeySpy is a Python keylogger with a web interface for viewing captured keystroke
 ## Features
 
 - Captures keystrokes in the background while running.
-- Stores captured keystrokes in `mongoDB Atlas`.
+- Stores captured keystrokes in mongoDB Atlas.
 - Displays captured keystrokes in a web interface.
-- Excute Payloads remotely from the web interface.
+- Excute Rubber Ducky Payloads remotely from the web interface.
 - Auto-Start on System boot.
 - Capture IPv4 address of the target device.
-- Allows viewing keystrokes from multiple sessions.
+- Encrypts data before storing it in MongoDB Atlas for enhanced security.
+- Lightweight and deployable as a standalone executable.
 
 ## Usage
    ### ⚙️Keylogger:
